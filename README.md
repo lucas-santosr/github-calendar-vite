@@ -3,14 +3,10 @@
 Visualização interativa de **eventos diários em formato de calendário estilo GitHub**, desenvolvida com **Vite, HTML, CSS e JavaScript puro**.
 O projeto permite o upload de bases CSV e gera automaticamente calendários anuais que representam a densidade de eventos por dia, com gradação de cores inspirada no layout clássico do GitHub.
 
----
-
 ## 🧠 Sobre o Projeto
 
 Este projeto foi criado com o objetivo de **analisar e visualizar eventos de forma intuitiva e impactante**, transformando dados brutos em uma **experiência visual clara e moderna**.
 Ele foi desenvolvido para ser utilizado em **apresentações internas e relatórios de performance**, sendo também uma excelente demonstração de domínio técnico e design de interface.
-
----
 
 ## 🚀 Funcionalidades Principais
 
@@ -21,8 +17,6 @@ Ele foi desenvolvido para ser utilizado em **apresentações internas e relatór
 ✅ Exportação do gráfico em imagem `.png` via `html2canvas`
 ✅ Layout inspirado no **GitHub Contributions Chart**, em **modo claro elegante**
 ✅ Navegação fluida e centralizada, sem scroll lateral
-
----
 
 ## 🧱 Estrutura do Projeto
 
@@ -37,8 +31,6 @@ github-calendar-vite/
 └── vite.config.js      # Definição de build e preview
 ```
 
----
-
 ## 🛠️ Tecnologias Utilizadas
 
 * ⚡ **Vite** — ambiente leve e rápido para desenvolvimento frontend
@@ -52,10 +44,6 @@ github-calendar-vite/
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![html2canvas](https://img.shields.io/badge/html2canvas-007ACC?logo=canvas&logoColor=white)](https://html2canvas.hertzen.com/)
 [![Open Source](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-blue?logo=github)](https://github.com/lucas-santosr/github-calendar-vite)
-
-Visualização interativa e responsiva de **eventos diários em formato de calendário estilo GitHub**, desenvolvida com **Vite, HTML, CSS e JavaScript puro**.  
-O projeto permite o upload de bases CSV e gera automaticamente calendários anuais que representam a densidade de eventos por dia, com gradação de cores inspirada no layout clássico do GitHub.
-
 
 ---
 
@@ -80,7 +68,6 @@ npm run preview
 O projeto será executado em:
 👉 [http://localhost:5173](http://localhost:5173)
 
----
 
 ### 🔹 Opção 2 — HTML puro (sem Node)
 
@@ -92,8 +79,6 @@ github-calendar-vite/index.html
 ```
 
 Isso carregará o aplicativo completo sem necessidade de dependências externas.
-
----
 
 ## 📄 Exemplo de Uso
 
@@ -107,9 +92,9 @@ data_evento,total_eventos
 ```
 
 2️⃣ O sistema renderiza automaticamente o calendário, organizando os dias por mês e ano.
+
 3️⃣ Clique em **“Exportar como PNG”** para salvar a visualização.
 
----
 
 ## 💡 Visual do Projeto
 
@@ -117,12 +102,13 @@ data_evento,total_eventos
 
 > *Visualização estilo GitHub Contributions com gradação de verdes e estrutura horizontal por meses.*
 
----
 
 ## 🤝 Contribuições
 
 Contribuições são muito bem-vindas!
+
 Sinta-se à vontade para abrir issues, sugerir melhorias ou enviar pull requests.
+
 Se quiser adaptar o projeto para outros tipos de métricas (como energia gerada, disponibilidade ou performance), basta ajustar as colunas de entrada no CSV.
 
 ---
@@ -130,11 +116,10 @@ Se quiser adaptar o projeto para outros tipos de métricas (como energia gerada,
 ## 📬 Contato
 
 Desenvolvido por **Lucas dos Santos Rodrigues**
+
 📧 [GitHub: @lucas-santosr](https://github.com/lucas-santosr)
 📅 © 2025 — Projeto público open source
 
----
-
-## 🪪 Licença
+## Licença
 
 Este projeto é distribuído sob a licença **MIT** — sinta-se livre para utilizar, modificar e aprimorar.
