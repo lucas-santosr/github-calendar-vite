@@ -15,7 +15,8 @@ O projeto permite o upload de base CSV e gera automaticamente calendários anuai
 
 ## 🧠 Sobre o Projeto
 
-Este projeto foi criado com o objetivo de **analisar e visualizar eventos de forma intuitiva**, transformando dados brutos em uma **experiência visual clara e moderna**.  
+Este projeto foi criado com o objetivo de **analisar e visualizar eventos de forma intuitiva**, transformando dados brutos em uma **experiência visual clara e moderna**.
+
 Ele foi desenvolvido para ser utilizado em **apresentações e relatórios internos**, sendo também uma excelente demonstração de domínio técnico e design de interface.
 
 ---
@@ -56,11 +57,22 @@ github-calendar-vite/
 - 🎨 **html2canvas** — exportação do calendário como imagem PNG  
 - 🧠 **Design responsivo** inspirado na UI do GitHub  
 
+
+## 🧰 Stacks & Ferramentas
+
+| Categoria        | Ferramentas                                           |
+| ---------------- | ----------------------------------------------------- |
+| ⚙️ Build e Dev   | Vite, Node.js                                         |
+| 💻 Linguagens    | JavaScript (ES6+), HTML5, CSS3                        |
+| 🧩 Bibliotecas   | html2canvas                                           |
+| 🧠 Padrões       | Modularização, Responsividade, UI inspirada no GitHub |
+| 🧪 Testes Locais | Cursor/VS Code            |
+
 ---
 
 ## 🧩 Como Executar o Projeto
 
-### 🔹 Opção 1 — Usando Vite (recomendado)
+### 🔹 Usando Vite
 
 ```bash
 # Instalar dependências
@@ -78,19 +90,6 @@ npm run preview
 
 O projeto será executado em:
 👉 [http://localhost:5173](http://localhost:5173)
-
----
-
-### 🔹 Opção 2 — HTML puro (sem Node)
-
-Se preferir, basta abrir o arquivo `index.html` diretamente no navegador:
-
-```bash
-# Caminho do projeto
-github-calendar-vite/index.html
-```
-
-Isso carregará o aplicativo completo sem necessidade de dependências externas.
 
 ---
 
@@ -118,18 +117,6 @@ data_evento,total_eventos
 
 ---
 
-## 🧰 Stacks & Ferramentas
-
-| Categoria        | Ferramentas                                           |
-| ---------------- | ----------------------------------------------------- |
-| ⚙️ Build e Dev   | Vite, Node.js                                         |
-| 💻 Linguagens    | JavaScript (ES6+), HTML5, CSS3                        |
-| 🧩 Bibliotecas   | html2canvas                                           |
-| 🧠 Padrões       | Modularização, Responsividade, UI inspirada no GitHub |
-| 🧪 Testes Locais | Cursor, VS Code, Live Server, GitHub Pages            |
-
----
-
 ## 🤝 Contribuições
 
 Contribuições são muito bem-vindas!
@@ -142,7 +129,8 @@ Se quiser adaptar o projeto para outros tipos de métricas (como energia gerada,
 ## 📬 Contato
 
 Desenvolvido com 💚 por **Lucas dos Santos Rodrigues**
-📧 [GitHub: @lucas-santosr](https://github.com/lucas-santosr)
+
+📧 [GitHub @lucas-santosr](https://github.com/lucas-santosr)
 📅 © 2025 — Projeto público open source
 
 ---
@@ -150,5 +138,3 @@ Desenvolvido com 💚 por **Lucas dos Santos Rodrigues**
 ## 🪪 Licença
 
 Este projeto é distribuído sob a licença **MIT** — sinta-se livre para utilizar, modificar e aprimorar.
-
-````
