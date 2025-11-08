@@ -111,7 +111,7 @@ data_evento,total_eventos
 
 ## 💡 Visual do Projeto
 
-![Preview do Calendário](./preview.png)
+![Preview do Calendário](data/preview.png)
 
 > *Visualização estilo GitHub Contributions com gradação de verdes e estrutura horizontal por meses.*
 
